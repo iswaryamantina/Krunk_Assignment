@@ -1,0 +1,35 @@
+.message {
+    width: 55vw;
+    font-size: 150%;
+    margin: 4%;
+    margin-left: 0%;
+    display: flex;
+    flex-direction: column;
+}
+.time {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+.message-container {
+    display: flex;
+    flex-direction: column;
+}
+.message-content {
+    padding: 5%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 1em;
+    margin: 0% 4%;
+}
+.image-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.image-captions {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
